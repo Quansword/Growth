@@ -1,5 +1,5 @@
 # Growth
-The code and final build for a 2D puzzle side-scroller prototype created in Unity.  
+The code and final build for a 2D puzzle side-scroller prototype created with Unity in 9 days.  
   
 Growth is a puzzle game where you play as GB, an old handheld system repurposed as a flower pot, who helps CRT, a robot with a TV for a head, to find and preserve the small amount of plantlife left in the world. The two charcters help eachother through a series of puzzles that make use of GB's unique reach mechanic. 
   
