@@ -6,6 +6,7 @@ Growth is a puzzle game where you play as GB, an old handheld system repurposed 
 A/D or <-/-> to move, and Spacebar or W to extend GB's flower.  
   
 The final build of the game is in the Game folder, while the code is in the code folder.  
+The game is also playable at https://mbreese.itch.io/growth  
   
 Developers:
   
