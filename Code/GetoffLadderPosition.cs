@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Part of the ladder code. This code is executed when CRT reaches the ladder
+// Part of the ladder code. This code is executed when CRT is getting off the ladder
 
 public class GetoffLadderPosition : MonoBehaviour
 {
